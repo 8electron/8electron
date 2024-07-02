@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning Nuclear Energy at Tsinghua University.
 <!--
 **8electron/8electron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
